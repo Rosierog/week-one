@@ -8,4 +8,5 @@ Podcasts
 	- will explore the application and more, aswell as would like to like to use for further research papers it seems an ideal location to organize papers and research as oppose to keeping many tabs open when writing a paper
 GITUP
 	- this was the first application I created an account for, the instructions and pics were very useful
+  - confusion with how to format 
 	
