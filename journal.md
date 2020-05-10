@@ -1,4 +1,6 @@
-# week-onePodcasts
+# week-one
+
+Podcasts
  - Engaging and interesting content, I enjoyed the perspective of failure and the uncommon practice of examing failure in a academic setting i.e. univerisities
  
  NOTE: anxious to deal with the more technical side of this course 
