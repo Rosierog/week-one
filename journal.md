@@ -6,7 +6,6 @@
 Zotero
  
  	- was fairly easy to download; had a few issues opening up the application the first time but found success
-	- The tutuorials pertaining to it were very helpful
 	- will explore the application and more, aswell as would like to like to use for further research papers it seems an ideal location to organize papers and research as oppose to keeping many tabs open when writing a paper
 
 
@@ -25,4 +24,5 @@ Prior to this course I never put a lot of thought into digital history. In the c
 for most eras we are learning events as they happened in the past and their influence on the world. Digital history, 
 is still new and has a short history in comparison to other historical events. Through the readings and listening to the podcast
 it is easy to see that like much of history it is told from a man's view/world, prominent women and their success' to the field are not 
-accreddited in the same way. Digitial history is also a lot of trial and errorr, failures, road blocks and finding for effective ways of accomplishing goals 
+accreddited in the same way. Digitial history is also a lot of trial and errorr, failures, road blocks and finding for effective ways of accomplishing goals.
+I am excited to learn new skills as the course continues, learn of new applications and ways of learning that are different from the univerity norm. 
